@@ -1,3 +1,6 @@
+# Après avoir testé plusieurs méthodes différentes afin de pouvoir déchiffrer un message chiffré selon ce qui est décri à la question 2, nous croyons pouvoir confirmer notre hypothèse étant qu'il n'est pas possible de décoder un tel message. Le nombre de symboles, soit 256, nous empêche de faire l'essai de toutes les clés possible. Même en utilisant des techniques d'analyse statistiques, il ne semble pas possible de résoudre ce problème, surtout à cause de l'utilisation de bicaractères dans les symboles. Ces bicaractères nous empêche de remarquer des tendances telles que l'utilisation de symboles doubles comme "tt". Voici tout de même une des méthodes que nous avons essayer d'implémenter:
+
+
 # Devoir 1 - Question 2
 # Vyncent Larose  - 20189960
 # Ismail El Azhari - 20196185
